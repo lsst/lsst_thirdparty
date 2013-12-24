@@ -1,3 +1,5 @@
+setupRequired(sconsUtils)
+
 setupRequired(apr)
 setupRequired(astrometry_net)
 setupRequired(boost)
